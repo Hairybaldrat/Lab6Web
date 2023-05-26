@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using webapi.Data;
 
-var MyPolicy = "127.0.0.1/3000";
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
