@@ -1,0 +1,17 @@
+.box {
+    height: 300px;
+}
+.addbutt {
+    
+}
+
+.itemsbox {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Three columns in the grid */
+    grid-gap: 10px; /* Gap between grid items */
+}
+
+.ItemImage{
+    max-height: 200px;
+    min-height: 140px;
+}

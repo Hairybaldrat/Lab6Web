@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "Name": "Chungus",
+    "Price": 1000,
+    "Itemurl": "Chungus.webp"
+  },
+  {
+    "id": 2,
+    "Name": "Freddy Fazbear",
+    "Price": 200,
+    "Itemurl": "Fazbear.webp"
+  },
+  {
+    "id": 3,
+    "Name": "Godzilla",
+    "Price": 35,
+    "Itemurl": "Godzilla.webp"
+  },
+  {
+    "id": 4,
+    "Name": "Steve",
+    "Price": 200,
+    "Itemurl": "Steve.png"
+  },
+  {
+    "id": 5,
+    "Name": "Slender",
+    "Price": 12,
+    "Itemurl": "SlenderMan.webp"
+  },
+  {
+    "id": 6,
+    "Name": "Fortnite",
+    "Price": 2,
+    "Itemurl": "Fortnite.jpg"
+  },
+  {
+    "id": 7,
+    "Name": "Duk Nukem",
+    "Price": 20000,
+    "Itemurl": "Duke.png"
+  }
+]
